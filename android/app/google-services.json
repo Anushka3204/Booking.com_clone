@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "496514745238",
+    "project_id": "flutter-booking-cf8a9",
+    "storage_bucket": "flutter-booking-cf8a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496514745238:android:ec94fe7ce6b7a7716dd3b7",
+        "android_client_info": {
+          "package_name": "com.example.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496514745238-h3qae4jjvf6k8n8ga0uvkq81aordso4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.booking",
+            "certificate_hash": "a59388cf194578b52b79c423b785ed2e0159bad0"
+          }
+        },
+        {
+          "client_id": "496514745238-nlkmmof1l38aosagoisborded8f5kr1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGaksbNAI9rn4mWgvugFuDAu7Q3rL0FuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496514745238-nlkmmof1l38aosagoisborded8f5kr1g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496514745238-ojm1sm6rv1imt24agccl3pgjf0jnq85g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.booking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
