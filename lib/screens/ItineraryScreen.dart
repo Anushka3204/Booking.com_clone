@@ -30,7 +30,7 @@ class _ItineraryScreenState extends State<ItineraryScreen> {
     });
 
     final String apiKey =
-        "AIzaSyA65jID9tl_QCZywK08LBfWjjSvvcWCBX0"; // Replace with your actual API key
+        "your api key "; // Replace with your actual API key
     final Uri apiUrl = Uri.parse(
         "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=$apiKey");
 
